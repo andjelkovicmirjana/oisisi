@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Kako ide :)
+=======
+Kako ide <:)
+ste ae
+xD
+dhha
+>>>>>>> 2425295c874c5380683027e1bfb0738730142986
